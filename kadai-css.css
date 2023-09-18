@@ -1,0 +1,18 @@
+header {
+	background-color: #ffcccc;
+}
+#main {
+	background-color: #ccffcc;;
+	width: 700@x;
+}
+#menu {
+	background-color: #ccccff;
+	width: 300px;
+}
+footer {
+	background-color: #ffccff;
+}
+#wrapper {
+    display: flex;
+    justify-content: space-between;
+}
