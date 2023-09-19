@@ -1,9 +1,11 @@
 header {
 	background-color: #ffcccc;
+		width: 1000px;
+
 }
 #main {
 	background-color: #ccffcc;;
-	width: 700@x;
+	width: 700px;
 }
 #menu {
 	background-color: #ccccff;
@@ -15,5 +17,5 @@ footer {
 }
 #wrapper {
     display: flex;
-    justify-content: ;
+	width: 1000px;
 }
